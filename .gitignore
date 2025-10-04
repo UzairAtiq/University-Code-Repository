@@ -1,0 +1,53 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compiled Files
+*.exe
+*.o
+*.obj
+*.class
+*.pyc
+__pycache__/
+*.pyo
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Archives
+*.zip
+*.rar
+*.tar.gz
+
+# Microsoft Office Files (unless specifically needed)
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Language Specific
+# C++
+*.out
+a.out
+# Python
+*.egg-info/
+dist/
+build/
+# Assembly
+*.lst
+*.map
